@@ -44,6 +44,7 @@ const PropertyDetailePage = () => {
                     </p>
                 </div>
                 <ReservationSlider />
+                <div className=""></div>
             </div>
         </main>
     );
